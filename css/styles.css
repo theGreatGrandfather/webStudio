@@ -1,0 +1,129 @@
+.body {
+    font-family:'Roboto', sans-serif;
+    font-style: normal;
+    color:#2E2F42;
+    font-weight: 400;
+}
+.primery-logo {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1,33;
+color: #4D5AE5;
+}
+
+.secondary-logo {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1,33;
+color: #2E2F42;
+}
+.navigation {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,5;
+color: #2E2F42;
+letter-spacing: 0.02em;
+}
+
+.contacts {
+font-style: normal;
+}
+.contacts-item {
+text-decoration: none;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+letter-spacing: 0.02em;
+}
+
+.contacts-item:hover,
+.contacts-item:focus {
+   color: #404bbf
+}
+
+.name {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+.our-skills {
+background-color: #2E2F42;
+}
+
+.order-service {
+background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.order-service:focus {
+color: #404bbf;
+}
+
+.goal {
+
+}
+
+.goal-name {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 1,2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.text {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.name-section {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1,11;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.text-footer {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+color: #E7E9FC;
+}
+ul {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+.navigation {
+    
+}
